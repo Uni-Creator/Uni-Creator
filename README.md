@@ -37,8 +37,7 @@ I'm always diving into new tech and methodologies, especially in:
 ### 🌍 Where You Can Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/abhay-singh312/) - Let's connect!
-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-(https://github.com/Abhay-Singh312) - Check out my work!
+- [Github](https://github.com/Abhay-Singh312) - Check out my work!
 - [Portfolio (Coming Soon)](#) - A showcase of my projects and ideas!
 
 ### 👀 Currently Seeking
