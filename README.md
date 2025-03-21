@@ -37,7 +37,7 @@ I'm always diving into new tech and methodologies, especially in:
 
 ### 🌐 Github Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uni-Creator&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-Creator&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uni-Creator&show_icons=true&theme=radical)                                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-Creator&layout=compact&theme=radical)
 
 ---
 
