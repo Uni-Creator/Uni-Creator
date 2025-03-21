@@ -71,7 +71,7 @@
         <img src="profile.jpg" alt="Profile Picture" class="profile-pic">
         <p>Engineering Student | AI/ML Developer | Robotics & Computer Vision Enthusiast</p>
 
-        <div class="social-links">
+<div class="social-links">
             <h2>🌍 Where You Can Find Me</h2>
             <a href="https://github.com/Abhay-Singh312" target="_blank"><i class="fab fa-github"></i></a>
             <a href="https://www.linkedin.com/in/abhay-singh312/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -79,33 +79,33 @@
             <p><a href="#">Portfolio (Coming Soon)</a> - A showcase of my projects and ideas!</p>
         </div>
 
-        <div class="skills">
+<div class="skills">
             <h2>🛠️ Tech Stack</h2>
             <div><b>Python & AI</b><div class="progress-bar"><span style="width: 90%;"></span></div></div>
             <div><b>Computer Vision</b><div class="progress-bar"><span style="width: 85%;"></span></div></div>
             <div><b>Cybersecurity</b><div class="progress-bar"><span style="width: 75%;"></span></div></div>
         </div>
 
-        <div class="learning">
+<div class="learning">
             <h2>📚 Learning & Experimenting</h2>
             <p>🔹 Deep Learning & AI: Training LSTMs, CNNs, and NLP models.</p>
             <p>🔹 Computer Vision & Robotics: Developing automation solutions using OpenCV and PyTorch.</p>
             <p>🔹 Cybersecurity & Ethical Hacking: Exploring security tools and AI-driven defense mechanisms.</p>
         </div>
 
-        <div class="projects">
+<div class="projects">
             <h2>🚀 Featured Projects</h2>
             <div><b>Real-Time Sign Language Recognition</b><p>LSTM-based model for recognizing sign language gestures.</p></div>
             <div><b>HandGestureAutomation</b><p>Control your computer using hand gestures via webcam tracking.</p></div>
             <div><b>Jarvis-Desktop-Assistance</b><p>A Python-based voice assistant with GUI integration.</p></div>
         </div>
 
-        <div class="profile-views">
+<div class="profile-views">
             <h2>📊 Profile Views</h2>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-Singh312&theme=dark" alt="GitHub Streak">
         </div>
 
-        <div class="current">
+<div class="current">
             <h2>👀 Currently Seeking</h2>
             <p>Opportunities in <b>AI, Robotics, and Computer Vision</b>—whether it's research, open-source contributions, or industry projects. If you're working on something exciting, I'd love to collaborate!</p>
         </div>
