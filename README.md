@@ -19,9 +19,9 @@ I'm Abhay Singh, an engineering student passionate about AI, ML, and all things 
 
 ### 🛠️ Projects I’m Proud Of
 
-- **[Real-Time Sign Language Recognition](https://github.com/Abhay-Singh312/Real-Time-Sign-Language-Recognition)** - An LSTM-based model for recognizing sign language gestures using PyTorch. 🖐️
-- **[HandGestureAutomation](https://github.com/Abhay-Singh312/HandGestureAutomation)** - Control your computer mouse using hand gestures through webcam-based tracking. 🖥️
-- **[Jarvis-Desktop-Assistance](https://github.com/Abhay-Singh312/Jarvis-Desktop-Assistance)** - A Python-based voice assistant integrating GUI and system automation. 🎙️
+- **[Real-Time Sign Language Recognition](https://github.com/Uni-Creator/Real-Time-Sign-Language-Recognition)** - An LSTM-based model for recognizing sign language gestures using PyTorch. 🖐️
+- **[HandGestureAutomation](https://github.com/Uni-Creator/HandGestureAutomation)** - Control your computer mouse using hand gestures through webcam-based tracking. 🖥️
+- **[Jarvis-Desktop-Assistance](https://github.com/Uni-Creator/Jarvis-Desktop-Assistance)** - A Python-based voice assistant integrating GUI and system automation. 🎙️
 
 ---
 
@@ -37,7 +37,7 @@ I'm always diving into new tech and methodologies, especially in:
 ### 🌍 Where You Can Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/abhay-singh312/) - Let's connect!
-- [Github](https://github.com/Abhay-Singh312) - Check out my work!
+- [Github](https://github.com/Uni-Creator) - Check out my work!
 - [Portfolio (Coming Soon)](#) - A showcase of my projects and ideas!
 
 ### 👀 Currently Seeking
