@@ -1,5 +1,6 @@
 # Hey there! 👋 I'm Abhay Singh
-![Profile Views](https://komarev.com/ghpvc/?username=Uni-Creator&color=blue) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Uni-Creator&color=blue)
 
 **🚀 Engineering Student | Aspiring AI/ML Developer**  
 **🔬 Robotics & Computer Vision Enthusiast**  
@@ -35,13 +36,16 @@ I'm always diving into new tech and methodologies, especially in:
 
 ---
 
-### 🌐 Github Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uni-Creator&show_icons=true&theme=radical) 
+### 🌐 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-Creator&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uni-Creator&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-Creator&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
 
-![Current Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uni-creator&)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uni-creator&theme=radical" alt="Current Streaks" width="48%">
+</p>
 
 ---
 
