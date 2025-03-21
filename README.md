@@ -44,7 +44,7 @@ I'm always diving into new tech and methodologies, especially in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uni-creator&theme=radical" alt="Current Streaks" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uni-creator&show_icons=true&theme=radical" alt="Current Streaks" width="48%">
 </p>
 
 ---
