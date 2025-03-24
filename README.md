@@ -23,7 +23,7 @@ I'm Abhay Singh, an engineering student passionate about AI, ML, and all things 
 
 - **[Real-Time Sign Language Recognition](https://github.com/Uni-Creator/Real-Time-Sign-Language-Recognition)** - An LSTM-based model for recognizing sign language gestures using PyTorch. 🖐️
 - **[HandGestureAutomation](https://github.com/Uni-Creator/HandGestureAutomation)** - Control your computer mouse using hand gestures through webcam-based tracking. 🖥️
-- **[Handwritten_Number_Recognition_System](https://github.com/Uni-Creator/Handwritten_Number_Recognition_System))** - A Handwritten Number Recognition System built from scratch using Deep Learning from Scratch.
+- **[Handwritten_Number_Recognition_System](https://github.com/Uni-Creator/Handwritten_Number_Recognition_System)** - A Handwritten Number Recognition System built from scratch using Deep Learning from Scratch.
 - **[Jarvis-Desktop-Assistance](https://github.com/Uni-Creator/Jarvis-Desktop-Assistance)** - A Python-based voice assistant integrating GUI and system automation. 🎧
 - **[LungCancerClassification](https://github.com/Uni-Creator/LungCancerClassification)** - A deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). 
 ---
