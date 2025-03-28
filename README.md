@@ -41,11 +41,11 @@ I'm always diving into new tech and methodologies, especially in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uni-Creator&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-Creator&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-Creator&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uni-Creator&theme=radical&hide_border=true" alt="Current Streaks" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uni-Creator&theme=vue-dark&hide_border=true" alt="Current Streaks" width="48%">
 </p>
 
 ---
