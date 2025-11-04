@@ -57,7 +57,7 @@ I'm always diving into new tech and methodologies, especially in:
 
 - [LinkedIn](https://www.linkedin.com/in/sinhgrabhay/) - Let's connect!
 - [Github](https://github.com/Uni-Creator) - Check out my work!
-- [Portfolio (Coming Soon)](#) - A showcase of my projects and ideas!
+- [Portfolio](https://uni-creator-portfolio.vercel.app/) - A showcase of my projects and ideas!
 
 ### 👀 Currently Seeking
 
