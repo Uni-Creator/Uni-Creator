@@ -27,22 +27,6 @@ I’m an engineering student focused on building practical AI systems in compute
 
 ---
 
-### Featured Projects
-
-- **[Real-Time Sign Language Recognition](https://github.com/Uni-Creator/Real-Time-Sign-Language-Recognition)** - Real-time LSTM based system that detects and interprets sign language gestures using computer vision and sequence models.
-
-- **[HandGestureAutomation](https://github.com/Uni-Creator/HandGestureAutomation)** - Control your computer using hand tracking and gesture recognition through a webcam.
-
-- **[RAG Multi-File Question Answering](https://github.com/Uni-Creator/RAG-MultiFile-QA)** - Retrieval-augmented generation pipeline that answers questions across PDFs, DOCX, CSV and text files.
-
-- **[FlappyBird Genetic AI (NEAT)](https://github.com/Uni-Creator/FlappyBird_GeneticAI_NEAT)** - Neural networks evolved using the NEAT algorithm that learn to play Flappy Bird autonomously.
-
-- **[Crowd Detection System](https://github.com/Uni-Creator/Crowd-Detection)** - YOLOv8 based real-time crowd detection and tracking with proximity analysis.
-
-- **Multi-Agent Learning Simulation (Work in Progress)** - Research-oriented simulation where multiple agents learn and interact inside an evolving environment.
-
----
-
 ### Performance Metrics
 
 <p align="center">
