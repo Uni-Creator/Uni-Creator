@@ -76,7 +76,7 @@ Deep Learning
   <a href="https://www.linkedin.com/in/sinhgrabhay/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://uni-creator-portfolio.vercel.app/">
+  <a href="https://unicreator.dpdns.org/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:abhayr24564@gmail.com">
