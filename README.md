@@ -30,7 +30,6 @@ Deep Learning
 │   └── Vector Retrieval
 │
 └── Reinforcement Learning
-    ├── PPO
     └── Neuroevolution / NEAT
 ```
 
